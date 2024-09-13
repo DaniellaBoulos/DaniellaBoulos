@@ -1,6 +1,7 @@
 ## About Me
 
-Looking for an immersive internship experience within the Cybersecurity field. Experienced with Cybersecurity technology such as Virtual Machines, Wireshark, VMware and Linux Systems, firewall tools, and vulnerability scanners. Proficient in various programming languages and a fast learner of all hardware-computer technology. Effective member of project-based teams and adds value to ensure success.
+Passionate and hard-working student pursuing a Bachelor’s Degree in Cybersecurity and a CompTIA Security+ certificate. Experienced with Cybersecurity technology such as firewall tools and vulnerability scanners, and proficient in various programming languages to protect business and client assets. Adept at collaborating in project-based teams and consistently adding value to ensure project and team success. Eager to apply my academic knowledge and committed to continuous learning to proactively address evolving cybersecurity challenges. 
+
 
 <!--
 **DaniellaBoulos/DaniellaBoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
