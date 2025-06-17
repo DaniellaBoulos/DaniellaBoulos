@@ -1,6 +1,6 @@
 ## About Me
 
-Passionate and hard-working student pursuing a Bachelor’s Degree in Cybersecurity and a CompTIA Security+ certificate. Experienced with Cybersecurity technology such as firewall tools and vulnerability scanners, and proficient in various programming languages to protect business and client assets. Adept at collaborating in project-based teams and consistently adding value to ensure project and team success. Eager to apply my academic knowledge and committed to continuous learning to proactively address evolving cybersecurity challenges. 
+Recent Cybersecurity graduate looking to further my coding skills and showcase my work. This repository displays the various projects I've worked on and completed throughout my college career.
 
 
 <!--
