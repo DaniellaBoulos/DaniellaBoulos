@@ -1,6 +1,6 @@
 ## About Me
 
-Recent Cybersecurity graduate looking to further my coding skills and showcase my work. This repository displays the various projects I've worked on and completed throughout my college career.
+Recent Cybersecurity graduate looking to showcase my work. Skilled in both front-end (HTML, CSS, JavaScript, React) and back-end (Python, SQL, Linux) programming languages. 
 
 
 <!--
